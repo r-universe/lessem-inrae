@@ -5,6 +5,7 @@
 [submodule "martelosim"]
 	path = martelosim
 	url = https://forge.inrae.fr/lessem/rpackages/martelosim
+	branch = dev
 [submodule "matreex"]
 	path = matreex
 	url = https://forge.inrae.fr/lessem/rpackages/matreex
